@@ -1,0 +1,1 @@
+python ./segmentation_experiment.py -n manualKFold -i "C:\Users\David\Desktop\Mario_Datasets\Mario_Manual" -m small -o 8

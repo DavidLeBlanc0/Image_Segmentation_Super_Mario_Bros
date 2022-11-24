@@ -1,0 +1,1 @@
+python ./segmentation_experiment.py -n autoKFold -i "C:\Users\David\Desktop\Mario_Datasets\Mario15_3734" -m small -o 8

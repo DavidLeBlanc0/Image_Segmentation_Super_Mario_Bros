@@ -1,0 +1,2 @@
+Mean Macro Averaged F1: 0.5265077344865452
+Standard Error: 0.003408900342699578
